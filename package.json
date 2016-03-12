@@ -1,0 +1,7 @@
+{
+  "name": "FileUpload",
+  "main": "main.js",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  }
+}
